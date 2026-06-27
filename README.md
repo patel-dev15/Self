@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayan-dev15&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ayan-dev15=ayan-dev15&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-dev15&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - React
