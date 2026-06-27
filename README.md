@@ -1,4 +1,4 @@
-# Hi there, I'm John 👋
+# Hi there, I'm Ayan 👋
 
 🚀 Software Developer passionate about web development and open source.
 
