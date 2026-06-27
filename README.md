@@ -14,8 +14,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
-- TypeScript
-- Cloud Computing (AWS)
+- React
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
